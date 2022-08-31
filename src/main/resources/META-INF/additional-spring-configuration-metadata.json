@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "wolf.username",
+    "type": "java.lang.String",
+    "description": "A description for 'wolf.username'"
+  },
+  {
+    "name": "wolf.password",
+    "type": "java.lang.String",
+    "description": "A description for 'wolf.password'"
+  },
+  {
+    "name": "wolf.dburl",
+    "type": "java.lang.String",
+    "description": "A description for 'wolf.dburl'"
+  },
+  {
+    "name": "wolf.jms.username",
+    "type": "java.lang.String",
+    "description": "A description for 'wolf.jms.username'"
+  },
+  {
+    "name": "wolf.jms.password",
+    "type": "java.lang.String",
+    "description": "A description for 'wolf.jms.password'"
+  },
+  {
+    "name": "wolf.jms.url",
+    "type": "java.lang.String",
+    "description": "A description for 'wolf.jms.url'"
+  }
+]}

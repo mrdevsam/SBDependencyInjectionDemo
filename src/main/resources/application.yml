@@ -1,0 +1,17 @@
+wolf:
+  jms:
+    username: Mad
+    password: madpass
+    url: lasdkhsajddhfskjddfhlajdssj
+
+
+---
+spring:
+  config:
+    activate:
+      on-profile: de
+
+
+wolf:
+  jms:
+    username: Mad#######
